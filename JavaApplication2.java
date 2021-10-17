@@ -1,5 +1,6 @@
 package javaapplication2;
 /**
+ * First homework
  * Program's output are numbers from 1 to 100,
  * if one from it mod 3==0 --> OUTPUT="Fizz",
  * if it mod 5==0 --> OUTPUT="Buzz",

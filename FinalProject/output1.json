@@ -1,0 +1,37 @@
+[
+  {
+    "productID": 1,
+    "productName": "phone",
+    "numberOfSold": 20
+  },
+  {
+    "productID": 2,
+    "productName": "tablet",
+    "numberOfSold": 44
+  },
+  {
+    "productID": 3,
+    "productName": "reader",
+    "numberOfSold": 27
+  },
+  {
+    "productID": 4,
+    "productName": "graphic-tablet",
+    "numberOfSold": 30
+  },
+  {
+    "productID": 5,
+    "productName": "smartwatch",
+    "numberOfSold": 13
+  },
+  {
+    "productID": 6,
+    "productName": "headphones",
+    "numberOfSold": 12
+  },
+  {
+    "productID": 7,
+    "productName": "microphone",
+    "numberOfSold": 35
+  }
+]

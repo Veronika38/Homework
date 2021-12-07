@@ -1,0 +1,34 @@
+{
+    "traders":[
+        {
+            "traderID": "1",
+            "traderFamilyName": "Vasilieva",
+            "traderName": "Vasilisa"
+        },
+        {
+            "traderID": "2",
+            "traderFamilyName": "Grigoriev",
+            "traderName": "Grigorii"
+        },
+        {
+            "traderID": "3",
+            "traderFamilyName": "Ivanov",
+            "traderName": "Ivan"
+        },
+        {
+            "traderID": "4",
+            "traderFamilyName": "Yashkov",
+            "traderName": "Yakov"
+        },
+        {
+            "traderID": "5",
+            "traderFamilyName": "Petrov",
+            "traderName": "Petr"
+        },
+        {
+            "traderID": "6",
+            "traderFamilyName": "Petrova",
+            "traderName": "Natalya"
+        }
+    ]
+}

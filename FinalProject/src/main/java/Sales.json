@@ -1,0 +1,86 @@
+[
+        {
+            "saleID": "10",
+            "traderID": "1",
+            "productID": "2",
+            "numberOfSold": "20",
+            "dateOfSale": "2020-10-15T00:00:00Z"
+        },
+        {
+            "saleID": "11",
+            "traderID": "1",
+            "productID": "3",
+            "numberOfSold": "25",
+            "dateOfSale": "2020-10-14T00:00:00Z"
+        },
+        {
+            "saleID": "12",
+            "traderID": "1",
+            "productID": "7",
+            "numberOfSold": "15",
+            "dateOfSale": "2020-10-15T00:00:00Z"
+        },
+        {
+            "saleID": "20",
+            "traderID": "2",
+            "productID": "7",
+            "numberOfSold": "20",
+            "dateOfSale": "2020-10-15T00:00:00Z"
+        },
+        {
+            "saleID": "30",
+            "traderID": "3",
+            "productID": "1",
+            "numberOfSold": "20",
+            "dateOfSale": "2020-10-13T00:00:00Z"
+        },
+        {
+            "saleID": "31",
+            "traderID": "3",
+            "productID": "4",
+            "numberOfSold": "30",
+            "dateOfSale": "2020-10-14T00:00:00Z"
+        },
+        {
+            "saleID": "32",
+            "traderID": "3",
+            "productID": "5",
+            "numberOfSold": "10",
+            "dateOfSale": "2020-10-13T00:00:00Z"
+        },
+        {
+            "saleID": "40",
+            "traderID": "4",
+            "productID": "3",
+            "numberOfSold": "2",
+            "dateOfSale": "2020-10-13T00:00:00Z"
+        },
+        {
+            "saleID": "41",
+            "traderID": "4",
+            "productID": "2",
+            "numberOfSold": "2",
+            "dateOfSale": "2020-10-14T00:00:00Z"
+        },
+        {
+            "saleID": "50",
+            "traderID": "5",
+            "productID": "6",
+            "numberOfSold": "12",
+            "dateOfSale": "2020-10-14T00:00:00Z"
+        },
+        {
+            "saleID": "60",
+            "traderID": "6",
+            "productID": "5",
+            "numberOfSold": "3",
+            "dateOfSale": "2020-10-15T00:00:00Z"
+        },
+        {
+            "saleID": "61",
+            "traderID": "6",
+            "productID": "2",
+            "numberOfSold": "22",
+            "dateOfSale": "2020-10-16T00:00:00Z"
+        }
+]
